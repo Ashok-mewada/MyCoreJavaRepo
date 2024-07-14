@@ -1,0 +1,441 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "nov.demo",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "linkedListDemo",
+            "request": "launch",
+            "mainClass": "CollectionFrameworkBySmartProgramming.linkedListDemo",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "arrayListdemo",
+            "request": "launch",
+            "mainClass": "CollectionFrameworkBySmartProgramming.arrayListdemo",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "enumerationCursor",
+            "request": "launch",
+            "mainClass": "CollectionFrameworkBySmartProgramming.enumerationCursor",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "listiteratordemo",
+            "request": "launch",
+            "mainClass": "CollectionFrameworkBySmartProgramming.listiteratordemo",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "iteratordemo",
+            "request": "launch",
+            "mainClass": "CollectionFrameworkBySmartProgramming.iteratordemo",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "collectionInterface",
+            "request": "launch",
+            "mainClass": "CollectionFrameworkBySmartProgramming.collectionInterface",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "myp1",
+            "request": "launch",
+            "mainClass": "myp1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "firstp",
+            "request": "launch",
+            "mainClass": "nov.firstp",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "thiskey",
+            "request": "launch",
+            "mainClass": "thiskey",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "pfirst",
+            "request": "launch",
+            "mainClass": "pfirst",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "psecond",
+            "request": "launch",
+            "mainClass": "placementsimp.psecond",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "pfirst",
+            "request": "launch",
+            "mainClass": "placementsimp.pfirst",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Database1",
+            "request": "launch",
+            "mainClass": "Database1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Database",
+            "request": "launch",
+            "mainClass": "Databasee.Database",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "NetworkProgramming.Client",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ReverseEcho",
+            "request": "launch",
+            "mainClass": "NetworkProgramming.ReverseEcho",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "CollectStdChallange",
+            "request": "launch",
+            "mainClass": "CollectionFramework.CollectStdChallange",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ArraysandComparator",
+            "request": "launch",
+            "mainClass": "CollectionFramework.ArraysandComparator",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "BitSett",
+            "request": "launch",
+            "mainClass": "CollectionFramework.BitSett",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "StringTokenizerr",
+            "request": "launch",
+            "mainClass": "CollectionFramework.StringTokenizerr",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Propertiess",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Propertiess",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "HashTablee",
+            "request": "launch",
+            "mainClass": "CollectionFramework.HashTablee",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashSett",
+            "request": "launch",
+            "mainClass": "CollectionFramework.LinkedHashSett",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashMapp",
+            "request": "launch",
+            "mainClass": "CollectionFramework.LinkedHashMapp",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "TreeMapp",
+            "request": "launch",
+            "mainClass": "CollectionFramework.TreeMapp",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ComparableInterfacee",
+            "request": "launch",
+            "mainClass": "CollectionFramework.ComparableInterfacee",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "TreeSett",
+            "request": "launch",
+            "mainClass": "CollectionFramework.TreeSett",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Hashsett",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Hashsett",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "PriorityDequeDemo",
+            "request": "launch",
+            "mainClass": "CollectionFramework.PriorityDequeDemo",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Arraydeque",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Arraydeque",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Arrayddeque",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Arrayddeque",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlistt",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Linkedlistt",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Arraylist",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "EncapsulationIntro",
+            "request": "launch",
+            "mainClass": "Encapsulation.EncapsulationIntro",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Oops",
+            "request": "launch",
+            "mainClass": "Oops",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "StringCollegeWallah",
+            "request": "launch",
+            "mainClass": "StringCollegeWallah",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "loopspractice",
+            "request": "launch",
+            "mainClass": "loopspractice",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "StarPattern",
+            "request": "launch",
+            "mainClass": "StarPattern",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Campus",
+            "request": "launch",
+            "mainClass": "Campus",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "CheckedException",
+            "request": "launch",
+            "mainClass": "CheckedException",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Enum",
+            "request": "launch",
+            "mainClass": "Enum",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Execption",
+            "request": "launch",
+            "mainClass": "Execption",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "FinallyInException",
+            "request": "launch",
+            "mainClass": "FinallyInException",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "InterThreadCom",
+            "request": "launch",
+            "mainClass": "InterThreadCom",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "MathClass",
+            "request": "launch",
+            "mainClass": "MathClass",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ObjectClass",
+            "request": "launch",
+            "mainClass": "ObjectClass",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "SingletonClass",
+            "request": "launch",
+            "mainClass": "SingletonClass",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferBuilder",
+            "request": "launch",
+            "mainClass": "StringBufferBuilder",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Synchro",
+            "request": "launch",
+            "mainClass": "Synchro",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "SynchroATM",
+            "request": "launch",
+            "mainClass": "SynchroATM",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ThreadMethods",
+            "request": "launch",
+            "mainClass": "ThreadMethods",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ThreadMethods2",
+            "request": "launch",
+            "mainClass": "ThreadMethods2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ThrowThrows",
+            "request": "launch",
+            "mainClass": "ThrowThrows",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "UncheckedException",
+            "request": "launch",
+            "mainClass": "UncheckedException",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "WrapperClass",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "abstractclass",
+            "request": "launch",
+            "mainClass": "abstractclass",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "arrayoneD",
+            "request": "launch",
+            "mainClass": "arrayoneD",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "unsolved",
+            "request": "launch",
+            "mainClass": "unsolved",
+            "projectName": "Java_3df404fa"
+        }
+    ]
+}
